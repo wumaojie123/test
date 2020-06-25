@@ -1,3 +1,3 @@
 <script>
-    console.log(new Date() + '10\11\12');
+    console.log(new Date() + '123');
 </script>
